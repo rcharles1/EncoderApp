@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ENCODER</string>
+    <string name="caesar_btn">Caesar Encryption</string>
+    <string name="message_hint">Enter a plaintext (Message)</string>
+    <string name="Choice_textView">Choose Encryption Method</string>
+    <string name="RTO13_btn">R0T 13 Encryption</string>
+    <string name="caesar_encryption_textview">Caesar Encryption</string>
+    <string name="RTO13_encryption_textview">R0T 13 Encryption</string>
+    <string name="caesar_cipher_result">The Cipher text is</string>
+    <string name="rot13_cipher_result">The Cipher text is</string>
+    <string name="caesar_cipher_ans">caesar cipher</string>
+
+</resources>
